@@ -1,0 +1,6 @@
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/glad.dir
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/qr_rubiks_cube.dir
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/rubiks_cube_test.dir
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/test.dir
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/edit_cache.dir
+/home/adnan/Dev/rubiks_qr_cube/build/CMakeFiles/rebuild_cache.dir

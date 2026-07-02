@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/rubiks_cube_test.dir/link.d CMakeFiles/rubiks_cube_test.dir/test/RubiksCubeTest.cpp.o CMakeFiles/rubiks_cube_test.dir/src/RubiksCube.cpp.o -o rubiks_cube_test  /usr/lib/libglm.a
